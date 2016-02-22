@@ -2,6 +2,7 @@
 A small text-based RPG I made for my final project in Data Structures, it's based on an adjacency matrix.
 Main program file is DandD.java
 
+
 Initial Upload 2/22/2016, Basic Features:
 
 1) Save/Load Character from Text File
@@ -13,6 +14,7 @@ Initial Upload 2/22/2016, Basic Features:
 4) Basic turn-base combat system
 
 5) Item and Key based progression through game
+
 
 Short-Term Goals:
 
@@ -27,6 +29,7 @@ Short-Term Goals:
 5) Dungeon Hazards
 
 6) Anything else
+
 
 
 Long Term-Goals:
